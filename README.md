@@ -73,5 +73,5 @@ This project is licensed under the **MIT License** – see LICENSE for details.
 ## ✍️ Author
 
 **Priyesh** – *Computer Science Student*
-Connect with me on LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/)\<your‑linkedin‑handle>/
+Connect with me on LinkedIn: https://www.linkedin.com/in/priyesh-thakur-514a86279/
 Happy coding! 🚀
